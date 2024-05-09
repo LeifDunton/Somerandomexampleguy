@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Somerandomexampleguy
+- 👀 I’m interested in coding and video games!
+- 🌱 I’m currently learning HTML and CSS, and I hope to learn JavaScript.
+- 💞️ I’m looking to collaborate on making websites.
+- 📫 You can reach me at somerandomexampleperson@gmail.com
+- 😄 Pronouns: he/him
